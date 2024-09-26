@@ -1,3 +1,6 @@
+# Fork by christmas3dp
+A fork of rnote i made to add some features that i would like to have for a personal notes app
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/flxzt/rnote/main/crates/rnote-ui/data/icons/scalable/apps/rnote.svg" width="300"></img>
 </div><br><br><br>
